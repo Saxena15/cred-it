@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cred-it</string>
+
+
+    <!--    deals-->
+
+    <string name="buffet_deals">Buffet Deals</string>
+    <string name="restaurant_deals">Restaurant Deals</string>
+    <string name="party_deals">Party Deals</string>
+    <string name="discounts">50% Discounts</string>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "146144237003",
+    "project_id": "cred-it-5e828",
+    "storage_bucket": "cred-it-5e828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146144237003:android:49afb1b2ded6fe15f1124e",
+        "android_client_info": {
+          "package_name": "com.saxena.cred_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146144237003-1urscpgcebg61ctblqo90krot0nm9171.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saxena.cred_it",
+            "certificate_hash": "b4a0e96c8510fc595754aaaadad35f237ffac33a"
+          }
+        },
+        {
+          "client_id": "146144237003-36ikphe01uppc65j1p0bc4nk64at3gnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCivfw0QZ7xtiJVPklc4kDaUjrjkNTI2UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146144237003-36ikphe01uppc65j1p0bc4nk64at3gnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
