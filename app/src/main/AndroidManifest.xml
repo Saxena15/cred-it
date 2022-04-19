@@ -9,9 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Credit">
-        <activity
-            android:name=".list_item_menu1"
-            android:exported="false" />
+
         <activity
             android:name=".Landing_Page"
             android:exported="false" />
